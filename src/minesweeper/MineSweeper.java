@@ -1,6 +1,5 @@
 package minesweeper;
 
-import javax.jws.Oneway;
 import java.util.Arrays;
 
 /**
